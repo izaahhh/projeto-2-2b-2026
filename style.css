@@ -9,10 +9,10 @@ strong{
 
 img {
     width: 488px;
-    height: 550px;
+    height:;550px;
 }
 main {
-    display: inline;
+    display:flex;
 }
 a {
     width: 280px;
